@@ -1,16 +1,4 @@
 body{
-    background-color: #FFFFFF;
+    background-color: #1e293b;
+    color: #d1d5db;
 }
-h1,h2,h3{
-    color: #0000FF;
-}
-img{
-    border-radius: 15px;
-
-}
- .azul{
-    color: #000000;
- }
- #primeira-div{
-    background-color: #00ffff;
- }
